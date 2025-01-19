@@ -12,3 +12,5 @@ Marchas one
 Don't look back
 Oden's sons
 Attack!
+
+for git tag only
